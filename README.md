@@ -22,6 +22,6 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 - 🎛️ Interactive Slicers for Filtering  
 - 🔘 Buttons & Bookmarks for Page Navigation  
 - 🔄 Drill-Through Functionality  
-[➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
+[➡️ **View Full Project 1 Details (README)**](Data_Jobs_V1/README.md).
 
 
